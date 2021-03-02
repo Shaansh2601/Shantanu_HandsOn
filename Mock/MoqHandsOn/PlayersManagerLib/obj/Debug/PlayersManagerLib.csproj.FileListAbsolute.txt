@@ -1,0 +1,7 @@
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\PlayersManagerLib\bin\Debug\PlayersManagerLib.exe.config
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\PlayersManagerLib\bin\Debug\PlayersManagerLib.exe
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\PlayersManagerLib\obj\Debug\PlayersManagerLib.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\PlayersManagerLib\obj\Debug\PlayersManagerLib.exe
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb

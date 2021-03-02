@@ -1,0 +1,7 @@
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MoqHandsOn\bin\Debug\MoqHandsOn.exe.config
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MoqHandsOn\bin\Debug\MoqHandsOn.exe
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MoqHandsOn\bin\Debug\MoqHandsOn.pdb
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MoqHandsOn\obj\Debug\MoqHandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MoqHandsOn\obj\Debug\MoqHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MoqHandsOn\obj\Debug\MoqHandsOn.exe
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MoqHandsOn\obj\Debug\MoqHandsOn.pdb

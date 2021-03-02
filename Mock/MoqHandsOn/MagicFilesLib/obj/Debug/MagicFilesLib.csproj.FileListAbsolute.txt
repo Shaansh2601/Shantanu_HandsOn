@@ -1,0 +1,7 @@
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MagicFilesLib\obj\Debug\MagicFilesLib.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MagicFilesLib\bin\Debug\MagicFilesLib.exe.config
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MagicFilesLib\bin\Debug\MagicFilesLib.exe
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MagicFilesLib\obj\Debug\MagicFilesLib.exe
+C:\Users\Shaan Singh\source\repos\MoqHandsOn\MagicFilesLib\obj\Debug\MagicFilesLib.pdb

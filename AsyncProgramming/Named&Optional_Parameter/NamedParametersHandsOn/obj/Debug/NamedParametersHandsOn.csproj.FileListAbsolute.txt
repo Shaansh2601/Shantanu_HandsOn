@@ -1,0 +1,7 @@
+C:\Users\Shaan Singh\source\repos\NamedParametersHandsOn\NamedParametersHandsOn\bin\Debug\NamedParametersHandsOn.exe.config
+C:\Users\Shaan Singh\source\repos\NamedParametersHandsOn\NamedParametersHandsOn\bin\Debug\NamedParametersHandsOn.exe
+C:\Users\Shaan Singh\source\repos\NamedParametersHandsOn\NamedParametersHandsOn\bin\Debug\NamedParametersHandsOn.pdb
+C:\Users\Shaan Singh\source\repos\NamedParametersHandsOn\NamedParametersHandsOn\obj\Debug\NamedParametersHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\NamedParametersHandsOn\NamedParametersHandsOn\obj\Debug\NamedParametersHandsOn.exe
+C:\Users\Shaan Singh\source\repos\NamedParametersHandsOn\NamedParametersHandsOn\obj\Debug\NamedParametersHandsOn.pdb
+C:\Users\Shaan Singh\source\repos\NamedParametersHandsOn\NamedParametersHandsOn\obj\Debug\NamedParametersHandsOn.csprojAssemblyReference.cache
