@@ -1,0 +1,13 @@
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.exe
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.deps.json
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.runtimeconfig.json
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.runtimeconfig.dev.json
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\bin\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.pdb
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.AssemblyInfoInputs.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.AssemblyInfo.cs
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.dll
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.pdb
+C:\Users\Shaan Singh\source\repos\ASP_CORE_1st_HandsOn\ASP_CORE_1st_HandsOn\obj\Debug\netcoreapp3.1\ASP_CORE_1st_HandsOn.genruntimeconfig.cache

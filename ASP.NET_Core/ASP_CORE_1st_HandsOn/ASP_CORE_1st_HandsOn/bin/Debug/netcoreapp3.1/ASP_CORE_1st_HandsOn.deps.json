@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ASP_CORE_1st_HandsOn/1.0.0": {
+        "runtime": {
+          "ASP_CORE_1st_HandsOn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASP_CORE_1st_HandsOn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
