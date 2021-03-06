@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_CORE_5th_HandsOn", "ASP_CORE_5th_HandsOn\ASP_CORE_5th_HandsOn.csproj", "{BACAF25E-042B-4A4A-833F-A1A0EC5C2DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACAF25E-042B-4A4A-833F-A1A0EC5C2DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACAF25E-042B-4A4A-833F-A1A0EC5C2DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACAF25E-042B-4A4A-833F-A1A0EC5C2DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACAF25E-042B-4A4A-833F-A1A0EC5C2DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56876F85-7BF6-4969-8309-BB0F43311E6B}
+	EndGlobalSection
+EndGlobal

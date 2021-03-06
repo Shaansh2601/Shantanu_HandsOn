@@ -1,0 +1,23 @@
+﻿@model List<ASP_CORE_5th_HandsOn.Models.Employee>
+
+@foreach (var emp in Model)
+{
+    if (emp.IsPermanent == true)
+    {
+        <b>
+            <div class="row col-md-4">Name - @emp.Name</div>
+            <div class="row col-md-4">Salary - @emp.Salary</div>
+            <div class="row col-md-4">isPermanent - @emp.IsPermanent</div>
+        </b>
+    }
+    else
+    {
+        <div class="row col-md-4">Name - @emp.Name</div>
+        <div class="row col-md-4">Salary - @emp.Salary</div>
+        <div class="row col-md-4">isPermanent - @emp.IsPermanent</div>
+    }
+
+    <br />
+}
+
+
