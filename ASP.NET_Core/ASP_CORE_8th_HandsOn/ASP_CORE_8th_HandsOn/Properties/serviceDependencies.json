@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ASP_CORE_8th_HandsOnContext"
+    }
+  }
+}
