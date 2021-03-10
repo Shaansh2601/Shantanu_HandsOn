@@ -2574,11 +2574,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shaan Singh\\source\\repos\\ASP_CORE_6th_HandsOn\\ASP_CORE_6th_HandsOn\\ASP_CORE_6th_HandsOn.csproj",
+      "projectUniqueName": "C:\\Users\\Shaan Singh\\Desktop\\Shantanu_HandsOn\\ASP.NET_Core\\ASP_CORE_6th_HandsOn\\ASP_CORE_6th_HandsOn\\ASP_CORE_6th_HandsOn.csproj",
       "projectName": "ASP_CORE_6th_HandsOn",
-      "projectPath": "C:\\Users\\Shaan Singh\\source\\repos\\ASP_CORE_6th_HandsOn\\ASP_CORE_6th_HandsOn\\ASP_CORE_6th_HandsOn.csproj",
+      "projectPath": "C:\\Users\\Shaan Singh\\Desktop\\Shantanu_HandsOn\\ASP.NET_Core\\ASP_CORE_6th_HandsOn\\ASP_CORE_6th_HandsOn\\ASP_CORE_6th_HandsOn.csproj",
       "packagesPath": "C:\\Users\\Shaan Singh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shaan Singh\\source\\repos\\ASP_CORE_6th_HandsOn\\ASP_CORE_6th_HandsOn\\obj\\",
+      "outputPath": "C:\\Users\\Shaan Singh\\Desktop\\Shantanu_HandsOn\\ASP.NET_Core\\ASP_CORE_6th_HandsOn\\ASP_CORE_6th_HandsOn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shaan Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
