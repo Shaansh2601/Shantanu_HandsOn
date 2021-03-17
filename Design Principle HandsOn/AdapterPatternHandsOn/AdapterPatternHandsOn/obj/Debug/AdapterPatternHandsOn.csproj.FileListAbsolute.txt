@@ -1,0 +1,7 @@
+C:\Users\Shaan Singh\source\repos\AdapterPatternHandsOn\AdapterPatternHandsOn\bin\Debug\AdapterPatternHandsOn.exe.config
+C:\Users\Shaan Singh\source\repos\AdapterPatternHandsOn\AdapterPatternHandsOn\bin\Debug\AdapterPatternHandsOn.exe
+C:\Users\Shaan Singh\source\repos\AdapterPatternHandsOn\AdapterPatternHandsOn\bin\Debug\AdapterPatternHandsOn.pdb
+C:\Users\Shaan Singh\source\repos\AdapterPatternHandsOn\AdapterPatternHandsOn\obj\Debug\AdapterPatternHandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\AdapterPatternHandsOn\AdapterPatternHandsOn\obj\Debug\AdapterPatternHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\AdapterPatternHandsOn\AdapterPatternHandsOn\obj\Debug\AdapterPatternHandsOn.exe
+C:\Users\Shaan Singh\source\repos\AdapterPatternHandsOn\AdapterPatternHandsOn\obj\Debug\AdapterPatternHandsOn.pdb

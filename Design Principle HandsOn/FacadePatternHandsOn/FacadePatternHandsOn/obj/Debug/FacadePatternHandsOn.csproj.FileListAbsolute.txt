@@ -1,0 +1,7 @@
+C:\Users\Shaan Singh\source\repos\FacadePatternHandsOn\FacadePatternHandsOn\bin\Debug\FacadePatternHandsOn.exe.config
+C:\Users\Shaan Singh\source\repos\FacadePatternHandsOn\FacadePatternHandsOn\bin\Debug\FacadePatternHandsOn.exe
+C:\Users\Shaan Singh\source\repos\FacadePatternHandsOn\FacadePatternHandsOn\bin\Debug\FacadePatternHandsOn.pdb
+C:\Users\Shaan Singh\source\repos\FacadePatternHandsOn\FacadePatternHandsOn\obj\Debug\FacadePatternHandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\FacadePatternHandsOn\FacadePatternHandsOn\obj\Debug\FacadePatternHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\FacadePatternHandsOn\FacadePatternHandsOn\obj\Debug\FacadePatternHandsOn.exe
+C:\Users\Shaan Singh\source\repos\FacadePatternHandsOn\FacadePatternHandsOn\obj\Debug\FacadePatternHandsOn.pdb

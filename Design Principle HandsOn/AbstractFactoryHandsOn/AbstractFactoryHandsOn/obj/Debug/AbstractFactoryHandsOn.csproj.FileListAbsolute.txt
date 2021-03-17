@@ -1,0 +1,7 @@
+C:\Users\Shaan Singh\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\bin\Debug\AbstractFactoryHandsOn.exe.config
+C:\Users\Shaan Singh\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\bin\Debug\AbstractFactoryHandsOn.exe
+C:\Users\Shaan Singh\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\bin\Debug\AbstractFactoryHandsOn.pdb
+C:\Users\Shaan Singh\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\AbstractFactoryHandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\AbstractFactoryHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\AbstractFactoryHandsOn.exe
+C:\Users\Shaan Singh\source\repos\AbstractFactoryHandsOn\AbstractFactoryHandsOn\obj\Debug\AbstractFactoryHandsOn.pdb
