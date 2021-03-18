@@ -1,0 +1,14 @@
+C:\Users\Shaan Singh\source\repos\BuilderPatternHandsOn\BuilderPatternHandsOn\bin\Debug\BuilderPatternHandsOn.exe.config
+C:\Users\Shaan Singh\source\repos\BuilderPatternHandsOn\BuilderPatternHandsOn\bin\Debug\BuilderPatternHandsOn.exe
+C:\Users\Shaan Singh\source\repos\BuilderPatternHandsOn\BuilderPatternHandsOn\bin\Debug\BuilderPatternHandsOn.pdb
+C:\Users\Shaan Singh\source\repos\BuilderPatternHandsOn\BuilderPatternHandsOn\obj\Debug\BuilderPatternHandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\BuilderPatternHandsOn\BuilderPatternHandsOn\obj\Debug\BuilderPatternHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\BuilderPatternHandsOn\BuilderPatternHandsOn\obj\Debug\BuilderPatternHandsOn.exe
+C:\Users\Shaan Singh\source\repos\BuilderPatternHandsOn\BuilderPatternHandsOn\obj\Debug\BuilderPatternHandsOn.pdb
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\BuilderPatternHandsOn_4\BuilderPatternHandsOn\bin\Debug\BuilderPatternHandsOn.exe.config
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\BuilderPatternHandsOn_4\BuilderPatternHandsOn\bin\Debug\BuilderPatternHandsOn.exe
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\BuilderPatternHandsOn_4\BuilderPatternHandsOn\bin\Debug\BuilderPatternHandsOn.pdb
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\BuilderPatternHandsOn_4\BuilderPatternHandsOn\obj\Debug\BuilderPatternHandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\BuilderPatternHandsOn_4\BuilderPatternHandsOn\obj\Debug\BuilderPatternHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\BuilderPatternHandsOn_4\BuilderPatternHandsOn\obj\Debug\BuilderPatternHandsOn.exe
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\BuilderPatternHandsOn_4\BuilderPatternHandsOn\obj\Debug\BuilderPatternHandsOn.pdb

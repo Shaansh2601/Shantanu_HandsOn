@@ -1,8 +1,0 @@
-C:\Users\Shaan Singh\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.config
-C:\Users\Shaan Singh\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe
-C:\Users\Shaan Singh\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.pdb
-C:\Users\Shaan Singh\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.CodeAnalysisLog.xml
-C:\Users\Shaan Singh\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csprojAssemblyReference.cache
-C:\Users\Shaan Singh\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csproj.CoreCompileInputs.cache
-C:\Users\Shaan Singh\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.exe
-C:\Users\Shaan Singh\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.pdb
