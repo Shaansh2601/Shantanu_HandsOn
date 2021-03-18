@@ -1,0 +1,6 @@
+C:\Users\Shaan Singh\source\repos\ObserverPatternHandsOn\ObserverPatternHandsOn\bin\Debug\ObserverPatternHandsOn.exe.config
+C:\Users\Shaan Singh\source\repos\ObserverPatternHandsOn\ObserverPatternHandsOn\bin\Debug\ObserverPatternHandsOn.exe
+C:\Users\Shaan Singh\source\repos\ObserverPatternHandsOn\ObserverPatternHandsOn\bin\Debug\ObserverPatternHandsOn.pdb
+C:\Users\Shaan Singh\source\repos\ObserverPatternHandsOn\ObserverPatternHandsOn\obj\Debug\ObserverPatternHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\ObserverPatternHandsOn\ObserverPatternHandsOn\obj\Debug\ObserverPatternHandsOn.exe
+C:\Users\Shaan Singh\source\repos\ObserverPatternHandsOn\ObserverPatternHandsOn\obj\Debug\ObserverPatternHandsOn.pdb

@@ -1,0 +1,7 @@
+C:\Users\Shaan Singh\source\repos\MediatorHandsOn\MediatorHandsOn\bin\Debug\MediatorHandsOn.exe.config
+C:\Users\Shaan Singh\source\repos\MediatorHandsOn\MediatorHandsOn\bin\Debug\MediatorHandsOn.exe
+C:\Users\Shaan Singh\source\repos\MediatorHandsOn\MediatorHandsOn\bin\Debug\MediatorHandsOn.pdb
+C:\Users\Shaan Singh\source\repos\MediatorHandsOn\MediatorHandsOn\obj\Debug\MediatorHandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\MediatorHandsOn\MediatorHandsOn\obj\Debug\MediatorHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\MediatorHandsOn\MediatorHandsOn\obj\Debug\MediatorHandsOn.exe
+C:\Users\Shaan Singh\source\repos\MediatorHandsOn\MediatorHandsOn\obj\Debug\MediatorHandsOn.pdb
