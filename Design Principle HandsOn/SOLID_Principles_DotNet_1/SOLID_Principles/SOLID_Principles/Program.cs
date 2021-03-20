@@ -12,7 +12,8 @@ namespace SOLID_Principles
         {
             Console.WriteLine("Welcome to our site. Would you like to order or repair?");
             string processOption = Console.ReadLine().ToLower().Trim();
-            Repair phoneRepair = new Repair();
+            PhoneRepair phoneRepair = new PhoneRepair();
+            AccessoryRepair accessoryRepair = new AccessoryRepair();
             PhoneOrder phoneOrder = new PhoneOrder();
             string productDetail = string.Empty;
 
@@ -36,7 +37,7 @@ namespace SOLID_Principles
                     {
                         Console.WriteLine("Please provide the accessory detail, like headphone, tempered glass");
                         productDetail = Console.ReadLine().Trim();
-                        phoneRepair.ProcessAccessoryRepair(productDetail);
+                        accessoryRepair.ProcessAccessoryRepair(productDetail);
                     }
                     break;
                 default:
@@ -44,6 +45,7 @@ namespace SOLID_Principles
             }
 
             Console.WriteLine("Thanks for choosing us. Have a great day.");
+            Console.ReadLine();
         }
     }
 }

@@ -5,3 +5,10 @@ C:\Users\Shaan Singh\source\repos\AdapterPatternHandsOn\AdapterPatternHandsOn\ob
 C:\Users\Shaan Singh\source\repos\AdapterPatternHandsOn\AdapterPatternHandsOn\obj\Debug\AdapterPatternHandsOn.csproj.CoreCompileInputs.cache
 C:\Users\Shaan Singh\source\repos\AdapterPatternHandsOn\AdapterPatternHandsOn\obj\Debug\AdapterPatternHandsOn.exe
 C:\Users\Shaan Singh\source\repos\AdapterPatternHandsOn\AdapterPatternHandsOn\obj\Debug\AdapterPatternHandsOn.pdb
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\AdapterPatternHandsOn_5\AdapterPatternHandsOn\bin\Debug\AdapterPatternHandsOn.exe.config
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\AdapterPatternHandsOn_5\AdapterPatternHandsOn\bin\Debug\AdapterPatternHandsOn.exe
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\AdapterPatternHandsOn_5\AdapterPatternHandsOn\bin\Debug\AdapterPatternHandsOn.pdb
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\AdapterPatternHandsOn_5\AdapterPatternHandsOn\obj\Debug\AdapterPatternHandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\AdapterPatternHandsOn_5\AdapterPatternHandsOn\obj\Debug\AdapterPatternHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\AdapterPatternHandsOn_5\AdapterPatternHandsOn\obj\Debug\AdapterPatternHandsOn.exe
+C:\Users\Shaan Singh\Desktop\Shantanu_HandsOn\Design Principle HandsOn\AdapterPatternHandsOn_5\AdapterPatternHandsOn\obj\Debug\AdapterPatternHandsOn.pdb

@@ -6,16 +6,12 @@ using System.Threading.Tasks;
 
 namespace AdapterPatternHandsOn
 {
-    class BugattiVeyron : Movable,Price
+    class BugattiVeyron :Price
     {
         public double getPrice()
         {
             return 2555;
         }
 
-        public double getSpeed()
-        {
-            return 268;
-        }
     }
 }

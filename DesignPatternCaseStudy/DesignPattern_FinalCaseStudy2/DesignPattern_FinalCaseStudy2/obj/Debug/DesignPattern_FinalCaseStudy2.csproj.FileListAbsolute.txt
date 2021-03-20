@@ -1,0 +1,7 @@
+C:\Users\Shaan Singh\source\repos\DesignPattern_FinalCaseStudy2\DesignPattern_FinalCaseStudy2\bin\Debug\DesignPattern_FinalCaseStudy2.exe.config
+C:\Users\Shaan Singh\source\repos\DesignPattern_FinalCaseStudy2\DesignPattern_FinalCaseStudy2\bin\Debug\DesignPattern_FinalCaseStudy2.exe
+C:\Users\Shaan Singh\source\repos\DesignPattern_FinalCaseStudy2\DesignPattern_FinalCaseStudy2\bin\Debug\DesignPattern_FinalCaseStudy2.pdb
+C:\Users\Shaan Singh\source\repos\DesignPattern_FinalCaseStudy2\DesignPattern_FinalCaseStudy2\obj\Debug\DesignPattern_FinalCaseStudy2.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\DesignPattern_FinalCaseStudy2\DesignPattern_FinalCaseStudy2\obj\Debug\DesignPattern_FinalCaseStudy2.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\DesignPattern_FinalCaseStudy2\DesignPattern_FinalCaseStudy2\obj\Debug\DesignPattern_FinalCaseStudy2.exe
+C:\Users\Shaan Singh\source\repos\DesignPattern_FinalCaseStudy2\DesignPattern_FinalCaseStudy2\obj\Debug\DesignPattern_FinalCaseStudy2.pdb

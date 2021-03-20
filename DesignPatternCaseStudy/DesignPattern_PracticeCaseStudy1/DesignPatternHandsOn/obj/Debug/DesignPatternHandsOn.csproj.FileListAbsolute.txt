@@ -1,0 +1,7 @@
+C:\Users\Shaan Singh\source\repos\DesignPatternHandsOn\DesignPatternHandsOn\bin\Debug\DesignPatternHandsOn.exe.config
+C:\Users\Shaan Singh\source\repos\DesignPatternHandsOn\DesignPatternHandsOn\bin\Debug\DesignPatternHandsOn.exe
+C:\Users\Shaan Singh\source\repos\DesignPatternHandsOn\DesignPatternHandsOn\bin\Debug\DesignPatternHandsOn.pdb
+C:\Users\Shaan Singh\source\repos\DesignPatternHandsOn\DesignPatternHandsOn\obj\Debug\DesignPatternHandsOn.csprojAssemblyReference.cache
+C:\Users\Shaan Singh\source\repos\DesignPatternHandsOn\DesignPatternHandsOn\obj\Debug\DesignPatternHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Shaan Singh\source\repos\DesignPatternHandsOn\DesignPatternHandsOn\obj\Debug\DesignPatternHandsOn.exe
+C:\Users\Shaan Singh\source\repos\DesignPatternHandsOn\DesignPatternHandsOn\obj\Debug\DesignPatternHandsOn.pdb

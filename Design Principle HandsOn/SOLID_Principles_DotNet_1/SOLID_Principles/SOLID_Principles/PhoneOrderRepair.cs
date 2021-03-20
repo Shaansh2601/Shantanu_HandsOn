@@ -24,16 +24,18 @@ namespace SOLID_Principles
         }
     }*/
 
-    class Repair : IPhoneRepair,IAccessoryRepair
+    class PhoneRepair : IPhoneRepair
+    {
+        public void ProcessPhoneRepair(string modelName)
+        {
+            Console.WriteLine(string.Format("{0} repair accepted!", modelName));
+        }
+    }
+    class AccessoryRepair : IAccessoryRepair
     {
         public void ProcessAccessoryRepair(string accessoryType)
         {
             Console.WriteLine(string.Format("{0} repair accepted!", accessoryType));
-        }
-
-        public void ProcessPhoneRepair(string modelName)
-        {
-            Console.WriteLine(string.Format("{0} repair accepted!", modelName));
         }
     }
 

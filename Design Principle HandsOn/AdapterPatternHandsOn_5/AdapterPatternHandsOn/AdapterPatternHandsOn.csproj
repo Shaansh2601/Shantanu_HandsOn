@@ -43,9 +43,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BugattiVeyron.cs" />
-    <Compile Include="Movable.cs" />
-    <Compile Include="MovableAdapter.cs" />
-    <Compile Include="MovableAdapterImpl.cs" />
     <Compile Include="Price.cs" />
     <Compile Include="PriceAdapter.cs" />
     <Compile Include="PriceAdapterUsdToEuro.cs" />
